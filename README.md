@@ -1,7 +1,15 @@
 # belajar pyton 
 
+- NAMA:DONI PERDANA SIRINGORINGO
+- NIM:312210687
+- KELAS:TI.22.B1
+
+____________
+
+
   - [latihan 1](#latihan-1)
   - [latihan 2](#latihan-2)
+  - [latihan 3](#latihan-3)
 
 ## latihan 1
 Membuat latihan 1 
